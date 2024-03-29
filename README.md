@@ -2,7 +2,7 @@
 <h3 align="center">A passionate network and security from Thailand</h3>
 
 - 📫 How to reach me **heartnoiiza32@gmail.com**
-- 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karritus&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
